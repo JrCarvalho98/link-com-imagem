@@ -1,0 +1,27 @@
+html {
+    background-color: rgb(133, 108, 155);
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(20, 16, 9);
+    color: aliceblue;
+    width: 22%;
+    margin: 10px;
+    padding: 10px;
+    border: solid 5px;
+}
+
+p {
+    background-color: rgb(20, 16, 9);
+    color: aliceblue;
+    width: 46%;
+    margin: 10px;
+    padding: 10px 8px 10px 5px;
+    border: solid 2px;
+}
+
+a {
+    margin: 10px;
+}
